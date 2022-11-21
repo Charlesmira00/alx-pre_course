@@ -1,2 +1,2 @@
-.My first readme
-..just a few update.
+My first readme
+just a few update.
