@@ -1,1 +1,2 @@
-ready for coding
+.My first readme
+..just a few update.
